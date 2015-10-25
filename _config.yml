@@ -1,0 +1,23 @@
+name: HB Photography Nashville
+favicon: null
+layout_spectrum: 0.6598685036879033
+typography_spectrum: 0.7868777709081769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.33451493410393596
+  lightness: 0.43971391511149704
+  saturation: 0.5708585355896503
+  rhythmicContrast: 0.7955769151449203
+purpose: []
